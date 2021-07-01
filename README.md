@@ -1,6 +1,22 @@
 # LED-Visualizer (JLC PCB Board)
 
+## How it Works?
+
+How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
+
+## First Wrongly Traced Printed Board
+
+> ![](Printed_Board.jpg)
+
+## Retraced Board (Have Not Printed) -> Asking for Funds
+
 > ![](Board_Image.png)
+
+# Asking for Funds/Support to RePrint Retraces Board
+
+Fund me at my Patreon Page: https://www.patreon.com/marcusthumb
+
+
 
 # Explanation
 (Adapted) MarcusThum's Board Model from: https://create.arduino.cc/projecthub/PhilKey/rgb-backlight-msgeq7-audio-visualizer-e0054e
