@@ -8,13 +8,13 @@ How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
 
 > ![](Printed_Board.jpg)
 
-## Retraced Board (Have Not Printed) -> Asking for Funds
+## Retraced Board (Have Not Printed)
 
 > ![](Board_Image.png)
 
-# Asking for Funds/Support to RePrint Retraces Board
+# RePrint Retraces Board
 
-Fund me at my Patreon Page: https://www.patreon.com/marcusthumb
+Patreon Page: https://www.patreon.com/marcusthumb
 
 
 
