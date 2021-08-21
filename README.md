@@ -26,7 +26,7 @@ How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
 
 ## Board Image (Update)
 
-> ![](Board_Image.png)
+> ![](images/Board_Image.png)
 
 # It's on my Patreon Page
 
