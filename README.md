@@ -1,13 +1,5 @@
 # LED-Visualizer (JLC PCB Board)
 
-## How it Works?
-
-How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
-
-## Board Image (Update)
-
-> ![](Board_Image.png)
-
 # Update
 
 > ![](articles-max0419-09-msgeq7-mono-circuit.jpg)
@@ -18,16 +10,23 @@ Will be Updating Results & Circuit.
 
 **DO NOT USE MY FILE TO PRINT**
 
- - **1. error with GND Tracing Thickness**
+ - **1. Error with GND Tracing Thickness**
  - **1. MSGEQ7 Circuit Not Working**
 
 # Error
 
 **DO NOT USE MY FILE TO PRINT**
-**1. error with GND Tracing Thickness**
-**1. MSGEQ7 Circuit Not Working**
 
-**REMOVED** **rgbstripe_msgeq7_2021-06-30.zip** -> Board File **REMOVED**
+ - **1. Error with GND Tracing Thickness**
+ - **1. MSGEQ7 Circuit Not Working**
+
+## How it Works?
+
+How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
+
+## Board Image (Update)
+
+> ![](Board_Image.png)
 
 # It's on my Patreon Page
 
