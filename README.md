@@ -11,14 +11,14 @@
 **DO NOT USE MY FILE TO PRINT**
 
  - **1. Error with GND Tracing Thickness**
- - **1. MSGEQ7 Circuit Not Working**
+ - **2. MSGEQ7 Circuit Not Working**
 
 ## Source Files
 
 **DO NOT USE MY FILE TO PRINT**
 
  - **1. Error with GND Tracing Thickness**
- - **1. MSGEQ7 Circuit Not Working**
+ - **2. MSGEQ7 Circuit Not Working**
 
 ## How it Works?
 
@@ -43,4 +43,4 @@ Patreon Page: https://www.patreon.com/marcusthumb
 **DO NOT USE MY FILE TO PRINT**
 
  - **1. Error with GND Tracing Thickness**
- - **1. MSGEQ7 Circuit Not Working**
+ - **2. MSGEQ7 Circuit Not Working**
