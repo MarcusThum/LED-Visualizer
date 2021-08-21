@@ -13,7 +13,7 @@ Will be Updating Results & Circuit.
  - **1. Error with GND Tracing Thickness**
  - **1. MSGEQ7 Circuit Not Working**
 
-## Error
+## Source Files
 
 **DO NOT USE MY FILE TO PRINT**
 
@@ -39,4 +39,8 @@ Patreon Page: https://www.patreon.com/marcusthumb
 
 
 ## Note
-Source Files has Errors.
+
+**DO NOT USE MY FILE TO PRINT**
+
+ - **1. Error with GND Tracing Thickness**
+ - **1. MSGEQ7 Circuit Not Working**
