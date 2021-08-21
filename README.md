@@ -37,9 +37,6 @@ Patreon Page: https://www.patreon.com/marcusthumb
 
 # Source Files
 
-**BOM.xlsx** -> BOM Table
-
-**CPL.xlsx** -> Position of Surface Mount Components
 
 ## Note
 Please note that **BOM.xlsx** AND **CPL.xlsx** can only be used on the PCB Making Platform JLC PCB.
