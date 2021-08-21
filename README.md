@@ -2,7 +2,7 @@
 
 ## Update
 
-> ![](articles-max0419-09-msgeq7-mono-circuit.jpg)
+> ![](images/articles-max0419-09-msgeq7-mono-circuit.jpg)
 
  - I Re-Prototyped the MSGEQ7 Circuit with a different reference circuit - On a Prototype Board.
 
