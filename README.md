@@ -39,4 +39,4 @@ Patreon Page: https://www.patreon.com/marcusthumb
 
 
 ## Note
-Please note that **BOM.xlsx** AND **CPL.xlsx** can only be used on the PCB Making Platform JLC PCB.
+Source Files has Errors.
