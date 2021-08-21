@@ -1,6 +1,6 @@
 # LED-Visualizer (JLC PCB Board)
 
-# Update
+## Update
 
 > ![](articles-max0419-09-msgeq7-mono-circuit.jpg)
 
@@ -13,7 +13,7 @@ Will be Updating Results & Circuit.
  - **1. Error with GND Tracing Thickness**
  - **1. MSGEQ7 Circuit Not Working**
 
-# Error
+## Error
 
 **DO NOT USE MY FILE TO PRINT**
 
