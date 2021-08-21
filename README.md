@@ -4,19 +4,9 @@
 
 How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
 
-## First Wrongly Traced Printed Board
-
-> ![](Printed_Board.jpg)
-
-## Retraced Board (Update)
+## Board Image (Update)
 
 > ![](Board_Image.png)
-
-I tried working backwards, since I trusted the project. It was my first time printing and using SMD Components.
-
-The Arduino, Switches & Variable Resistor is functional.
-
-MSGEQ7 IC Chip Circuit, with SMD Components, was not working.
 
 # Update
 
@@ -27,6 +17,16 @@ I Re-Prototyped the MSGEQ7 Circuit with a different reference circuit - On a Pro
 Completed the Project.
 
 Will be Updating Results & Circuit.
+
+**DO NOT USE MY FILE TO PRINT**
+**1. error with GND Tracing Thickness**
+**1. MSGEQ7 Circuit Not Working**
+
+# Error
+
+**DO NOT USE MY FILE TO PRINT**
+**1. error with GND Tracing Thickness**
+**1. MSGEQ7 Circuit Not Working**
 
 **REMOVED** **rgbstripe_msgeq7_2021-06-30.zip** -> Board File **REMOVED**
 
