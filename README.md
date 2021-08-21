@@ -4,9 +4,9 @@
 
 > ![](articles-max0419-09-msgeq7-mono-circuit.jpg)
 
-I Re-Prototyped the MSGEQ7 Circuit with a different reference circuit - On a Prototype Board.
+ - I Re-Prototyped the MSGEQ7 Circuit with a different reference circuit - On a Prototype Board.
 
-Will be Updating Results & Circuit.
+ - Will be Updating Results & Circuit.
 
 **DO NOT USE MY FILE TO PRINT**
 
