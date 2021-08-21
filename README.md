@@ -14,13 +14,12 @@ How it Works? : https://www.youtube.com/watch?v=ppTdXinVPAs&feature=emb_title
 
 I Re-Prototyped the MSGEQ7 Circuit with a different reference circuit - On a Prototype Board.
 
-Completed the Project.
-
 Will be Updating Results & Circuit.
 
 **DO NOT USE MY FILE TO PRINT**
-**1. error with GND Tracing Thickness**
-**1. MSGEQ7 Circuit Not Working**
+
+ - **1. error with GND Tracing Thickness**
+ - **1. MSGEQ7 Circuit Not Working**
 
 # Error
 
