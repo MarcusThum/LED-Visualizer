@@ -4,7 +4,7 @@
 
 > ![](images/LED-Music-Visualizer.jpeg)
 
-- I have completed the the project with a working personal LED Music Visualizer.
+I have completed the the project with a working personal LED Music Visualizer. I don't have to share.
 
 **If anyone is keen to learn**
 
