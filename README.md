@@ -1,4 +1,4 @@
-# LED-Visualizer (JLC PCB Board)
+# LED-Visualizer
 
 ## Update
 
