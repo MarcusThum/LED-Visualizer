@@ -12,7 +12,7 @@
 
 ## Buying Completed Product
 
-Shoppee: https://shopee.sg/product/253127738/5885516277?smtt=0.107637913-1630238169.3
+Shoppee: https://shopee.sg/product/253127738/5885516277?smtt=0.107637913-1630238169.3 (RECOMMENDATION - Its not my listing)
 
 ## How it Works?
 
