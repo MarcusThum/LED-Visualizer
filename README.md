@@ -2,7 +2,7 @@
 
 ## Update
 
-> ![](images/articles-max0419-09-msgeq7-mono-circuit.jpg)
+> ![](images/LED-Music-Visualizer.jpeg)
 
 - I have completed the the project with a working personal LED Music Visualizer.
 
