@@ -1,18 +1,16 @@
-# LED-Visualizer
+# Marcus LED-Visualizer
 
 ## Update
 
-> ![](images/LED-Music-Visualizer.jpeg)
+> ![](images/1.jpg)
+> ![](images/2.jpg)
 
-I have completed the the project with a working personal LED Music Visualizer. I don't have to share.
+I have completed my LED Music Visualizer.
 
-**If anyone is keen to learn**
+## Video of my Setup in Action
 
- - **1. Contact me**
+Video Of It Working: https://youtu.be/rOyJxB7BaPw
 
-## Buying Completed Product
-
-Shoppee: https://shopee.sg/product/253127738/5885516277?smtt=0.107637913-1630238169.3 (RECOMMENDATION - Its not my listing)
 
 ## How it Works?
 
