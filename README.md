@@ -1,5 +1,9 @@
 # Marcus LED-Visualizer
 
+## My Whole Setup
+
+> ![](MyLEDSetup.jpg)
+
 ## Update
 
 > ![](images/1.jpg)
@@ -7,7 +11,7 @@
 
 I have completed my LED Music Visualizer.
 
-## Video of my Setup in Action
+## Video of it in Action
 
 Video Of It Working: https://youtu.be/rOyJxB7BaPw
 
