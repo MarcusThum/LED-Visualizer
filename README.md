@@ -2,7 +2,7 @@
 
 ## My Whole Setup
 
-> ![](MyLEDSetup.jpg)
+> ![](images/MyLEDSetup.jpg)
 
 ## Update
 
